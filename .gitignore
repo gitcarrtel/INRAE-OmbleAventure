@@ -1,0 +1,28 @@
+# OS Generated Files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Code Editors #
+################
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcworkspace
+*.xcuserdata/
+*.idea/
+
+# Other #
+#########
+*.bak
+*.tmp
+*.manifest
+*~
