@@ -1,4 +1,4 @@
-# OmblAventure
+# OmbleAventure
 
 An educational VR experience developed with Unreal Engine 5.4 focused on underwater exploration and marine biology, centered on the Arctic Charr (*Omble chevalier*) and its freshwater ecosystem. Developed at the UMR CARRTEL (INRAE – USMB), with support from the CSTI call (USMB), and a partnership with #ASL and #LaMaisondelaRivière.
 
